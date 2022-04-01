@@ -1,0 +1,10 @@
+tensorflow-macos
+tensorflow-metal
+pandas
+numpy
+matplotlib
+tensorflow-datasets
+jupyter
+scipy
+scikit-learn
+keras
